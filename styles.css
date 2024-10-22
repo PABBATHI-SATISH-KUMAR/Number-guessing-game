@@ -1,0 +1,42 @@
+body {
+	font-family: Arial, sans-serif;
+	background-color: #f0f0f0; /* light gray background */
+}
+
+h1 {
+	color: #00698f; /* blue title */
+}
+
+#timer {
+	font-size: 24px;
+	font-weight: bold;
+	color: #ff69b4; /* pink timer */
+}
+
+.btn {
+	padding: 10px 20px;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+.btn-primary {
+	background-color: #4CAF50; /* green button */
+	color: #ffffff; /* white text */
+}
+
+.btn-primary:hover {
+	background-color: #3e8e41; /* darker green on hover */
+}
+
+.btn-primary:active {
+	background-color: #2e6c31; /* even darker green on active */
+}
+
+#result {
+	color: #008000; /* green result text */
+}
+
+#score {
+	color: #666666; /* gray score text */
+}
